@@ -2,11 +2,11 @@
 
 **Evaluations dvdthèque**
 
-##### Technologie utiliser pour cette évaluation:
+##### Technologies utilisés pour cette évaluation:
 
-* [Codeigniter  3.1.4] - Framwork
-* [Bootstrap 3.3.7] - Framwork
-* [MySQL Workbench 6.3.9] - Diagrame
+* [Codeigniter  3.1.4] - Framework
+* [Bootstrap 3.3.7] - Framework
+* [MySQL Workbench 6.3.9] - Diagramme
 * [phpMyAdmin 4.7.1] - Interface gestion de db
 * [jQuery 3.2.1] - jQuery pour AJAX
 * [Dillinger] - Compilateur readme
